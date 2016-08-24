@@ -2,27 +2,45 @@
   "wallpapers": [
     {
       "author": "",
-      "url": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch.jpg",
+      "url": "https://raw.githubusercontent.com/punyweakling/punyweakling-icon-wallpapers/master/rrr-wp-01-dots.jpg",
       "name": "01",
-      "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/punyweakling/punyweakling-icon-wallpapers/master/rrr-wp-01-dots-thumb.jpg"
     },
+    
     {
       "author": "",
-      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+      "url": "https://raw.githubusercontent.com/punyweakling/punyweakling-icon-wallpapers/master/rrr-wp-02-dots.jpg",
       "name": "02",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/punyweakling/punyweakling-icon-wallpapers/master/rrr-wp-02-dots-thumb.jpg"
     },
+    
     {
       "author": "",
-      "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
-      "name":"03",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+      "url": "https://raw.githubusercontent.com/punyweakling/punyweakling-icon-wallpapers/master/rrr-wp-03-dots.jpg",
+      "name": "03",
+      "thumbnail": "https://raw.githubusercontent.com/punyweakling/punyweakling-icon-wallpapers/master/rrr-wp-03-dots-thumb.jpg"
     },
+    
     {
       "author": "",
-      "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
-      "name":"04",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+      "url": "https://raw.githubusercontent.com/punyweakling/punyweakling-icon-wallpapers/master/rrr-wp-04-dots.jpg",
+      "name": "04",
+      "thumbnail": "https://raw.githubusercontent.com/punyweakling/punyweakling-icon-wallpapers/master/rrr-wp-04-dots-thumb.jpg"
+    },
+    
+    {
+      "author": "",
+      "url": "https://raw.githubusercontent.com/punyweakling/punyweakling-icon-wallpapers/master/rrr-wp-05-dots.jpg",
+      "name": "05",
+      "thumbnail": "https://raw.githubusercontent.com/punyweakling/punyweakling-icon-wallpapers/master/rrr-wp-05-dots-thumb.jpg"
+    },
+    
+    {
+      "author": "",
+      "url": "https://raw.githubusercontent.com/punyweakling/punyweakling-icon-wallpapers/master/rrr-wp-06-dots.jpg",
+      "name": "06",
+      "thumbnail": "https://raw.githubusercontent.com/punyweakling/punyweakling-icon-wallpapers/master/rrr-wp-06-dots-thumb.jpg"
     }
+    
   ]
 }
