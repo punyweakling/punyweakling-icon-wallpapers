@@ -1,0 +1,28 @@
+{
+  "wallpapers": [
+    {
+      "author": "",
+      "url": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch.jpg",
+      "name": "01",
+      "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
+    },
+    {
+      "author": "",
+      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+      "name": "02",
+      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+    },
+    {
+      "author": "",
+      "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
+      "name":"03",
+      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+    },
+    {
+      "author": "",
+      "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
+      "name":"04",
+      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+    }
+  ]
+}
